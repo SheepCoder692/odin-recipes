@@ -26,7 +26,7 @@ h2 {
     padding: 10px;
 }
 
-ol, .unordered {
+ol, .unordered, .column {
    display: flex; 
    margin: 5px;
    align-items: center;
@@ -46,6 +46,7 @@ li {
     gap: 20px;
     margin: 10px 5px;
     padding: 15px;
+    justify-content: center;
 
 }
 
